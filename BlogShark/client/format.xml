@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<div class="en">
+  <h3 class="header" id="$id$">$rms$ 
+    <a href="#$id$">$header$</a>
+    <span class="badge badge-secondary">$date$</span>
+  </h3>
+  <p class="content">$content$</p>
+</div>
